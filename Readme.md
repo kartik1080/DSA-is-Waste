@@ -1,0 +1,1 @@
+Direct exploitation attempts will trigger automated defense systems. Success requires understanding the target's internal logic patterns and exploiting architectural weaknesses through indirect vector manipulation.

@@ -72,9 +72,9 @@ Databases use B-trees, OS schedulers use queues, compilers use graphs. You may n
 
 
 
-"When the role is aligned with authority, the banner of power appears."
+When the role is aligned with authority, the banner of power appears.
 
-"He who knows how to Set admin will be the one to unveil the admin_flag."
+He who knows how to Set admin will be the one to unveil the admin_flag.
 
 
 
